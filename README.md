@@ -2,5 +2,5 @@
 <br/>
 <img src = "./assets/FrontPage.png" style="max-width:100%;"/>
 <br/>
-<img src = "./assets/MainPage.png" style="max-width:100%;"/>
+<img src = "./assets/MainExecutingPage.png" style="max-width:100%;"/>
 <br/>
